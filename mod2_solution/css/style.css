@@ -25,13 +25,23 @@ section {
   float: right;
   font-family: Helvetica;
   color: black;
-  background-color: #008B8B;
   border: 1px solid black;
   clear: both;
   padding: 5px;
   margin-top: 20px;
   margin-right: 50px;
+}
 
+#chicken {
+  background-color: #ADFF2F;
+}
+
+#beef {
+    background-color: #F08080;
+}
+
+#sushi {
+    background-color: #8FBC8F;
 }
 
 .row {
