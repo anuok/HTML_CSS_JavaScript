@@ -1,0 +1,28 @@
+body {
+  font-size: 16px;
+}
+
+.menu {
+  margin-top: 80px;
+  color: orange;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  text-shadow: 1px 1px #558ABB;
+}
+
+
+.container {
+  align-content: center;
+  background-color: #E7F7D5;
+  padding: 20px;
+  text-align: justify;
+  border-left-style: solid;
+  border-color: #A9C589;
+  border-width: 4px;
+  margin: 10px 10px 10px 10px;
+}
+
+.text-center {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
