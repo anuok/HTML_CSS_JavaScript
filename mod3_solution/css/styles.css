@@ -61,10 +61,25 @@ body {
 
 }
 
-.icon-bar {
-   background-color:black !important;
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+   border: 1.5px solid #669b29;
+   background: #E7F7D5;
+}
+
+button.navbar-toggle a:hover {
+   background: #E7F7D5;
 }
 
 .navbar-brand {
   color: #317929 !important;
+}
+
+#bs-example-navbar-collapse-1 a {
+	color: black;
+	margin: 1px solid white;
+	margin-width: 1vw;
+}
+
+#bs-example-navbar-collapse-1 a:hover, #bs-example-navbar-collapse-1 a:focus {
+	background: #e4f4e2;
 }
