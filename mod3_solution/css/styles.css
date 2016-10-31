@@ -1,5 +1,6 @@
 body {
   font-size: 16px;
+  color: black;
 }
 
 .menu {
@@ -10,7 +11,6 @@ body {
   text-shadow: 1px 1px #558ABB;
 }
 
-
 .container {
   align-content: center;
   background-color: #E7F7D5;
@@ -19,10 +19,39 @@ body {
   border-left-style: solid;
   border-color: #A9C589;
   border-width: 4px;
-  margin: 10px 10px 10px 10px;
+  margin: 10px 10px 40px 20px;
 }
 
 .text-center {
   margin-bottom: 20px;
   text-transform: uppercase;
+}
+
+.col-xs-12, .col-sm-12, .col-md-12 {
+  margin-bottom: 20px;
+}
+
+.navbar-collapse {
+  text-color:black;
+  text-align: center;
+  background: #d4d4d2;
+}
+
+.top {
+  text-align: center;
+  font-size: 0.9em;
+}
+
+
+.top a {
+  color: #669b29;
+}
+
+.top a:hover {
+  text-align: center;
+  background-color: #da9132;
+  color: white;
+  text-decoration: none;
+  padding: 2px;
+
 }
