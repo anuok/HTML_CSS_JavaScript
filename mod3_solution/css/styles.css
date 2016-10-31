@@ -36,6 +36,10 @@ body {
   background: #d4d4d2;
 }
 
+.navbar {
+  background: #f4f4f4;
+}
+
 .top {
   text-align: center;
   font-size: 0.9em;
