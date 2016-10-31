@@ -33,11 +33,13 @@ body {
 
 .visible-xs {
   text-align: center;
-  background: #f4f4f4;
+  background: #caeac6;
+  color: black !important;
 }
 
 .navbar {
-  background: #ebebe9;
+  background: #caeac6;
+  background:rgba(84,161,76,0.5);
 }
 
 .top {
@@ -57,4 +59,12 @@ body {
   text-decoration: none;
   padding: 2px;
 
+}
+
+.icon-bar {
+   background-color:black !important;
+}
+
+.navbar-brand {
+  color: #317929 !important;
 }
